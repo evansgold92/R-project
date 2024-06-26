@@ -1,0 +1,7 @@
+---
+title: "githubd proj"
+author: "Evans"
+date: "2024-06-26"
+output: html_document
+---
+
